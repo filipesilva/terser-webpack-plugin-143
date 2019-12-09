@@ -5,7 +5,7 @@
     "fullTemplateTypeCheck": false,
     "ivyTemplateTypeCheck": false,
     "preserveWhitespaces": false,
-    "enableIvy": true
+    "enableIvy": false
   },
   "compilerOptions": {
     "outDir": "../../out-tsc/i10/app"
